@@ -24,3 +24,10 @@ body {
   width: 100%;
   filter: url("#turbulence");
 }
+
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
